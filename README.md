@@ -16,3 +16,8 @@ Vanilla JS
 프로그래머스 블로그에서 출제자의 문제 해설과 코드를 확인하세요.
 
 문제 링크: https://programmers.co.kr/skill_check_assignments/199
+# 디렉토리 구조
+1. 위 문제 링크로 접속하시면 기본적으로 제공 되는 파일에 ```scripts``` 폴더를 만드시고, ```src/scripts``` 폴더 안에 있는 파일들을 전부 복사해주세요.
+2. ```index.html```파일의 ```body``` 태그 안쪽 제일 하단에 ```list.js```, ```product.js```, ```cart.js```, ```common.js``` 순서대로 ```script``` 태그를 이용하여 ```import```하시면 정상 작동이 됩니다.
+
+> 문제에서 기본적으로 제공 되는 파일들은 저작권 이슈로 인해 레포지토리에 같이 저장하지 못하는 점 양해 부탁드립니다!
